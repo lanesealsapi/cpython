@@ -80,6 +80,7 @@ The following functions provide locale-independent string to number conversions.
    and :c:macro:`LONG_MAX` on overflows.
 
    See also the Unix man page :manpage:`strtol(3)`.
+   #should include inline definition of strol, string_to_list or something to that affect
 
    .. versionadded:: 3.2
 
